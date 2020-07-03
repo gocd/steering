@@ -14,7 +14,6 @@ The bootstrap steering committee is a 5 member body. See the [Steering Committee
 | Ashwanth Kumar     | **[@ashwanthkumar](https://github.com/ashwanthkumar)** |
 | Birgitta Boeckeler | **[@birgitta410](https://github.com/birgitta410)**     |
 | Ketan Padegaonkar  | **[@ketan](https://github.com/ketan)**                 |
-|                    |                                                        |
 | Mark Crossfield    | **[@mrmanc](https://github.com/mrmanc)**               |
 | Tomasz Sętkowski   | **[@tomzo](https://github.com/tomzo)**                 |
 
