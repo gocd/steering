@@ -24,3 +24,4 @@ The bootstrap steering committee is a 5 member body. See the [Steering Committee
 - Meeting notes:
 
   1. [July 8, 2020](./notes/2020_07_08.md)
+  3. [August 12, 2020](./notes/2020_08_12.md)
