@@ -24,4 +24,6 @@ The bootstrap steering committee is a 5 member body. See the [Steering Committee
 - Meeting notes:
 
   1. [July 8, 2020](./notes/2020_07_08.md)
-  3. [August 12, 2020](./notes/2020_08_12.md)
+  2. [August 12, 2020](./notes/2020_08_12.md)
+  3. [December 2020: Update in go-cd mailing list](https://groups.google.com/g/go-cd/c/g-P41BBgk_k/m/-htaXe3YBQAJ)
+  4. [April 2021: Update in go-cd mailing list](https://groups.google.com/g/go-cd/c/eIrnAEEwtzY/m/XLYFwP9sAQAJ)
